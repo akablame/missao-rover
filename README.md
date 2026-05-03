@@ -32,17 +32,20 @@ Durante o trajeto, o jogador precisa lidar com eventos aleatórios, terrenos hos
 
 ## Estrutura
 
+```
 src/
 ├── Main.java
 └── Rover.java
+```
 
 ## Como executar
 
-´´´bash
+```bash
 git clone https://github.com/akablame/missao-rover.git
 cd missao-rover/src
 javac Main.java Rover.java
 java Main
+```
 
 ## Aprendizados
 
